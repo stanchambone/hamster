@@ -1,0 +1,1 @@
+Update README-supabase.md: note that MultiplayerClient is now mounted in the app by default and RealtimeEffects provides simple UI for admin events.
